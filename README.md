@@ -94,9 +94,9 @@ endmodule
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: V.Patrick Alex Emmanuel
+Developed by: V.Harshini
 
-RegisterNumber: 24900019
+RegisterNumber: 24010419
 ```
 **RTL Schematic**
 
@@ -119,3 +119,4 @@ HALF SUBTRACTOR
 <img width="1466" alt="Screenshot 2024-11-29 at 11 07 30 PM" src="https://github.com/user-attachments/assets/eebb3469-ebe1-4a41-b7ef-0b0fc2c4d978">
 
 **Result:**
+Thus the Half Adder and Half Subtractor circuits are designed and the truth tables is verified using Quartus software.
